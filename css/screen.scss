@@ -227,6 +227,7 @@ h1 {
   font-weight: 700;
   line-height: calc($baseline * 4);
   margin-bottom: $space-m;
+  font-family: "Playfair display";
 }
 
 h2 {
@@ -234,6 +235,7 @@ h2 {
   font-size: $ms3;
   line-height: calc($baseline * 3);
   margin-bottom: $space-m;
+  font-family: $font-family-secondary;
 }
 
 h3 {
